@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "watch myWebApp",
+			"file": "C:\\Users\\kokou\\Nextcloud\\AZ400\\myWebApp\\myWebApp.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch myWebApp"
+		}
+	]
+}
